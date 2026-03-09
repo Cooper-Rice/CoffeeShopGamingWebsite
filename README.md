@@ -30,5 +30,5 @@ images/
 
 ## Credits
 
-- Original site by [Void](https://github.com/voidblock6) & hosted by [Squidforge](https://github.com/Squidforge)
+- Original site by [Void](https://github.com/voidblock6) & hosted by [Squidforge](https://github.com/Squidforge) @ [CoffeeShopGaming](https://coffeeshopgaming.squidforge.com/)
 - Redesign by Cat
