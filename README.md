@@ -28,11 +28,7 @@ images/
 - Contact form that opens Gmail compose
 - No dependencies
 
-## Setup
-
-Just drop all the files into the same folder and open `index.html`. No build step needed.
-
 ## Credits
 
-- Original site by [Void](https://github.com/voidblock6) & hosted by Squidforge
+- Original site by [Void](https://github.com/voidblock6) & hosted by [Squidforge](https://github.com/Squidforge)
 - Redesign by Cat
