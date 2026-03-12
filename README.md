@@ -18,6 +18,7 @@ library.html
 contact.html
 styles.css
 theme.js
+hamburger.js
 images/
 ```
 
